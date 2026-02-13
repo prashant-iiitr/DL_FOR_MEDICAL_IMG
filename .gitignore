@@ -1,0 +1,9 @@
+# Ignore dataset (large files)
+project-1/Brain-mri-dataset/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
